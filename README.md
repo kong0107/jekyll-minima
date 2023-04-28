@@ -4,13 +4,13 @@ Please refer to the `README.md` bundled within the theme-gem for information spe
 
 Running `bundle show minima` will provide you with the local path to your current theme version.
 
-![Minima v3 banner](/jekyll/minima/blob/master/readme_banner.svg)
+![Minima v3 banner](https://github.com/jekyll/minima/raw/master/readme_banner.svg)
 
 It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![screenshot](/jekyll/minima/raw/master/screenshot.png)
+![screenshot](https://github.com/jekyll/minima/raw/master/screenshot.png)
 
 
 ## Installation
